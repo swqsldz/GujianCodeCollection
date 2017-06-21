@@ -1,0 +1,7 @@
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\bin\Debug\GujianCodeCollection.exe
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\bin\Debug\GujianCodeCollection.pdb
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\bin\Debug\Newtonsoft.Json.dll
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\bin\Debug\Newtonsoft.Json.xml
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\obj\Debug\GujianCodeCollection.csprojResolveAssemblyReference.cache
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\obj\Debug\GujianCodeCollection.exe
+d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\obj\Debug\GujianCodeCollection.pdb
