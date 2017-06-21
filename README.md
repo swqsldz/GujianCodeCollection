@@ -1,0 +1,2 @@
+# GujianCodeCollection
+自动从淘号池内搜索可用古剑ol激活码
