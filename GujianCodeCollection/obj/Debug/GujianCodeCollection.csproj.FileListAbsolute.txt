@@ -5,3 +5,5 @@ d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeColle
 d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\obj\Debug\GujianCodeCollection.csprojResolveAssemblyReference.cache
 d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\obj\Debug\GujianCodeCollection.exe
 d:\mydoucuments\visual studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\obj\Debug\GujianCodeCollection.pdb
+D:\MyDoucuments\Visual Studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\bin\Debug\GujianCodeCollection.exe.config
+D:\MyDoucuments\Visual Studio 2015\Projects\GujianCodeCollection\GujianCodeCollection\bin\Debug\app.config
