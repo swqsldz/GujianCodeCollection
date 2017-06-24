@@ -32,3 +32,6 @@ Cookie到激活页面 http://gjol.yy.com/jihuo.html
 --------------------------------------------------------------------------
 <add key="COOKIES" value="cookie"/> 将value="cookie"内的cookie替换为自己帐号的cookie就可以了
 执行GujianCodeCollection.exe开始自动淘号。
+
+
+by 霜冻公爵
